@@ -1,4 +1,4 @@
 featureFlags:
-  FEATURE_FOO: enabled
+  FEATURE_FOO: disabled
   FEATURE_BAR: enabled
   FEATURE_BAZ: enabled
