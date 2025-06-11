@@ -17,6 +17,9 @@ spec:
       name: features
     sources:
       direct: true
+  verification:
+    analysisTemplates:
+    - name: kargo-helm-simple-analysis
   promotionTemplate:
     spec:
       steps:
